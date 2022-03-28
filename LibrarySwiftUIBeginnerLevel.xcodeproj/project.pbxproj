@@ -14,6 +14,10 @@
 		9C28E70127E8EE2900DE626A /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C28E70027E8EE2900DE626A /* TextBootcamp.swift */; };
 		9C28E70327E8F31C00DE626A /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C28E70227E8F31C00DE626A /* ShapesBootcamp.swift */; };
 		9C28E70527E9DAAC00DE626A /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C28E70427E9DAAC00DE626A /* ColorsBootcamp.swift */; };
+		9C30B62727F1B74600234C43 /* TransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C30B62627F1B74600234C43 /* TransitionBootcamp.swift */; };
+		9C30B62927F1BBB300234C43 /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C30B62827F1BBB200234C43 /* SheetsBootcamp.swift */; };
+		9C30B62B27F1C27C00234C43 /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C30B62A27F1C27C00234C43 /* PopoverBootcamp.swift */; };
+		9C30B62D27F1CA5E00234C43 /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C30B62C27F1CA5E00234C43 /* NavigationViewBootcamp.swift */; };
 		9C31CDE227EB2A2C008E360B /* IconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C31CDE127EB2A2C008E360B /* IconsBootcamp.swift */; };
 		9C31CDE427EB2CF5008E360B /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C31CDE327EB2CF5008E360B /* ImageBootcamp.swift */; };
 		9C31CDE627EB2FF1008E360B /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C31CDE527EB2FF1008E360B /* FrameBootcamp.swift */; };
@@ -30,6 +34,8 @@
 		9C31CE3027EE09DD008E360B /* ExtractSubviewsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C31CE2F27EE09DD008E360B /* ExtractSubviewsBootcamp.swift */; };
 		9C31CE3227EE0D53008E360B /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C31CE3127EE0D53008E360B /* BindingBootcamp.swift */; };
 		9C31CE3427EE2292008E360B /* ConditionalBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C31CE3327EE2291008E360B /* ConditionalBootcamp.swift */; };
+		9C31CE3627F1AB07008E360B /* AnimationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C31CE3527F1AB07008E360B /* AnimationBootcamp.swift */; };
+		9C31CE3827F1B1B4008E360B /* AnimationTimingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C31CE3727F1B1B4008E360B /* AnimationTimingBootcamp.swift */; };
 		9CA0720927E9E33500D205DD /* GradientsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CA0720827E9E33500D205DD /* GradientsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -42,6 +48,10 @@
 		9C28E70027E8EE2900DE626A /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 		9C28E70227E8F31C00DE626A /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 		9C28E70427E9DAAC00DE626A /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
+		9C30B62627F1B74600234C43 /* TransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBootcamp.swift; sourceTree = "<group>"; };
+		9C30B62827F1BBB200234C43 /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
+		9C30B62A27F1C27C00234C43 /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
+		9C30B62C27F1CA5E00234C43 /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
 		9C31CDE127EB2A2C008E360B /* IconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootcamp.swift; sourceTree = "<group>"; };
 		9C31CDE327EB2CF5008E360B /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
 		9C31CDE527EB2FF1008E360B /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
@@ -58,6 +68,8 @@
 		9C31CE2F27EE09DD008E360B /* ExtractSubviewsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviewsBootcamp.swift; sourceTree = "<group>"; };
 		9C31CE3127EE0D53008E360B /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
 		9C31CE3327EE2291008E360B /* ConditionalBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalBootcamp.swift; sourceTree = "<group>"; };
+		9C31CE3527F1AB07008E360B /* AnimationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBootcamp.swift; sourceTree = "<group>"; };
+		9C31CE3727F1B1B4008E360B /* AnimationTimingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingBootcamp.swift; sourceTree = "<group>"; };
 		9CA0720827E9E33500D205DD /* GradientsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -113,6 +125,12 @@
 				9C31CE2F27EE09DD008E360B /* ExtractSubviewsBootcamp.swift */,
 				9C31CE3127EE0D53008E360B /* BindingBootcamp.swift */,
 				9C31CE3327EE2291008E360B /* ConditionalBootcamp.swift */,
+				9C31CE3527F1AB07008E360B /* AnimationBootcamp.swift */,
+				9C31CE3727F1B1B4008E360B /* AnimationTimingBootcamp.swift */,
+				9C30B62627F1B74600234C43 /* TransitionBootcamp.swift */,
+				9C30B62827F1BBB200234C43 /* SheetsBootcamp.swift */,
+				9C30B62A27F1C27C00234C43 /* PopoverBootcamp.swift */,
+				9C30B62C27F1CA5E00234C43 /* NavigationViewBootcamp.swift */,
 				9C28E6F627E8EC5300DE626A /* Assets.xcassets */,
 				9C28E6F827E8EC5300DE626A /* Preview Content */,
 			);
@@ -204,11 +222,16 @@
 				9C31CDE627EB2FF1008E360B /* FrameBootcamp.swift in Sources */,
 				9C31CE3027EE09DD008E360B /* ExtractSubviewsBootcamp.swift in Sources */,
 				9C31CE2127ECDD75008E360B /* SpacerBootcamp.swift in Sources */,
+				9C30B62B27F1C27C00234C43 /* PopoverBootcamp.swift in Sources */,
 				9C28E70327E8F31C00DE626A /* ShapesBootcamp.swift in Sources */,
 				9C28E6F527E8EC5100DE626A /* ContentView.swift in Sources */,
 				9C31CE2E27EE062E008E360B /* ExtractedFunctionsBootcamp.swift in Sources */,
+				9C30B62927F1BBB300234C43 /* SheetsBootcamp.swift in Sources */,
 				9C28E70127E8EE2900DE626A /* TextBootcamp.swift in Sources */,
 				9C31CDEE27EC6D48008E360B /* StacksBootcampModel.swift in Sources */,
+				9C31CE3627F1AB07008E360B /* AnimationBootcamp.swift in Sources */,
+				9C30B62D27F1CA5E00234C43 /* NavigationViewBootcamp.swift in Sources */,
+				9C31CE3827F1B1B4008E360B /* AnimationTimingBootcamp.swift in Sources */,
 				9C28E6F327E8EC5100DE626A /* LibrarySwiftUIBeginnerLevelApp.swift in Sources */,
 				9C31CE2C27EDD181008E360B /* GridBootcamp.swift in Sources */,
 				9C31CDEA27EB4B65008E360B /* StacksBootcamp.swift in Sources */,
@@ -217,6 +240,7 @@
 				9C31CDE227EB2A2C008E360B /* IconsBootcamp.swift in Sources */,
 				9C31CE2827EDCAF8008E360B /* ForEachBootcamp.swift in Sources */,
 				9C31CE3427EE2292008E360B /* ConditionalBootcamp.swift in Sources */,
+				9C30B62727F1B74600234C43 /* TransitionBootcamp.swift in Sources */,
 				9C31CE2627EDBF5D008E360B /* InitializerBootcamp.swift in Sources */,
 				9C31CE1F27ECD9A4008E360B /* PaddingAndSpacerBootcamp.swift in Sources */,
 			);
@@ -276,7 +300,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -331,7 +355,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
